@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Botão de Contagem</title>
+</head>
+<body>
+    <h1>Contagem: <span id="contador">0</span></h1>
+    <button id="botao">Clique para Contar</button>
+
+    <script>
+        // Recupere a contagem do armazenamento local, se existir
+        let contagem = localStorage.getItem('contagem') || 0;
+
+        // Função para atualizar a contagem e exibir na página
+        function atualizarContagem() {
+            document.getElementById("contador").textContent = contagem;
+        }
+
+        // Adiciona um ouvinte de evento de clique ao botão
+        document.getElementById("botao").addEventListener("click", function() {
+            contagem = parseInt(contagem) + 1;
+            localStorage.setItem('contagem', contagem);
+            atualizarContagem();
+        });
+
+        // Chama a função para exibir a contagem inicial
+        atualizarContagem();
+    </script>
+</body>
+</html>
