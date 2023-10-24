@@ -42,12 +42,12 @@ Repositório para estruturar o estudo acerca do tema, na tentantiva de solidific
 
 </div>
 
- 
+
 ---
 
 ### 1. Introduçãoo
 
-Below are 6 heading variations. 
+Below are 6 heading variations.
 
 ###  2. Motivação
 
@@ -62,13 +62,13 @@ Visual data
 1. O sistema de atomização pode não ser, necessariamente benéfico
 2. A informação deve ter um eixo de catalogação e recuperação
 3. Sistematização e organização da metodologia do processo pode trazer melhorias
-4. Há sistems melhores do que outros oara tal fim, mas não um sistema geral, pois para objetos e áres de estudo 
+4. Há sistems melhores do que outros oara tal fim, mas não um sistema geral, pois para objetos e áres de estudo
 específicos diferem. E também o sistema pode ser de ordem individual de organização
 
 ### 5. Problemas de teoria da comunicação e de espitemologia
 
 
-### 6. Ferramentas e Softwares 
+### 6. Ferramentas e Softwares
 
 
 1. Google Docs / Google sites / Wiki
@@ -83,7 +83,7 @@ específicos diferem. E também o sistema pode ser de ordem individual de organi
 5. Solução final
 
 
-> " Podemos dizer que xyzw" 
+> " Podemos dizer que xyzw"
 
 ```cs
 
@@ -93,22 +93,3 @@ int b =3;
 log (a + b);
 
 ```
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

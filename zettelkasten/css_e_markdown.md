@@ -14,7 +14,9 @@ ou
 
 > File > Preferences > Settings (procure o JSON por lá)
 
+Retirado desta documentação, para aplicação do código a seguir:
 
+https://foambubble.github.io/foam/user/features/graph-visualization.html#graph-navigation
 
 ```css
 /*Formatação para objetos do FOAM Graph*/
