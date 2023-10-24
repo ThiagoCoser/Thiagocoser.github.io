@@ -1,0 +1,11 @@
+.remove-bullets ul {
+  list-style: none;
+    list-style-type: none;
+     
+  }
+      
+  .remove-bullets ol {
+  list-style: none;
+    list-style-type: none;
+     
+  }

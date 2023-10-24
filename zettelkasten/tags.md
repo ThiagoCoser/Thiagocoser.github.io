@@ -5,4 +5,6 @@
 #Zettelkasten
 #Artigo
 #Plugins
-#VSCode
+#VScode
+#Pensamentos
+#Estética
