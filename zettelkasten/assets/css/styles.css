@@ -1,11 +1,63 @@
-.remove-bullets ul {
-  list-style: none;
-    list-style-type: none;
-     
-  }
-      
-  .remove-bullets ol {
-  list-style: none;
-    list-style-type: none;
-     
-  }
+ .vscode-light pre {
+   background-color: rgba(220, 220, 220, 0.4);
+ }
+
+ .vscode-dark pre {
+   background-color: rgba(10, 10, 10, 0.4);
+ }
+
+ .vscode-high-contrast pre {
+   background-color: rgb(0, 0, 0);
+ }
+
+ .vscode-high-contrast h1 {
+   border-color: rgb(0, 0, 0);
+ }
+
+ .vscode-light th {
+   border-color: rgba(0, 0, 0, 0.69);
+ }
+
+ .vscode-dark th {
+   border-color: rgba(255, 255, 255, 0.69);
+ }
+
+ .vscode-light h1,
+ .vscode-light hr,
+ .vscode-light td {
+   border-color: rgba(0, 0, 0, 0.18);
+ }
+
+ .vscode-dark h1,
+ .vscode-dark hr,
+ .vscode-dark td {
+   border-color: rgba(255, 255, 255, 0.18);
+ }
+
+
+ .remove-bullets ul {
+   list-style: none;
+   list-style-type: none;
+
+ }
+
+ .remove-bullets ol {
+   list-style: none;
+   list-style-type: none;
+
+ }
+
+ .foam-tag {
+   color: #ffffff;
+   background-color: #000000;
+ }
+
+
+ .bodyblack {
+   background-color: black;
+ }
+
+
+ * {
+   background-color: #24292d
+ }

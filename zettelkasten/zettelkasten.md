@@ -2,7 +2,10 @@
 type: feature
 ---
 
-<link rel="stylesheet" type="text/css" href="assets/css/styles.css">
+<head>
+<link rel="stylesheet" type="text/css" href="assets/css/markdown.css">
+
+</head>
 
 # Zettelkasten <!-- omit in toc -->
 
@@ -14,6 +17,7 @@ type: feature
 </details>
 
 <br>
+
 
 
 Repositório para estruturar o estudo acerca do tema, na tentantiva de solidificar uma metodologia de tomamento de notas, assim como reflexões, críticas, softwares e testes.
